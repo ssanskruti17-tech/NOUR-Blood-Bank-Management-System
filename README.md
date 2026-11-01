@@ -9,30 +9,28 @@ A Data Structures mini project developed using Python. This project provides a s
 ## 📸 Project Screenshots
 
 ### 1. Dashboard
-![Dashboard](Screenshot/Dashboard.png)
+<img src="Nour/nour_project/Screenshot/Dashboard.png" width="650">
 
 ### 2. Blood Group Compatibility
-![Compatibility](Screenshot/Compatibility.png)
+<img src="Nour/nour_project/Screenshot/Compatibility.png" width="650">
 
 ### 3. Donors
-![Donors](Screenshot/Donars.png)
+<img src="Nour/nour_project/Screenshot/Donars.png" width="650">
 
-### 4. Donor Management
-![Donor Management](Screenshot/Donars2.png)
+### 4. Donor Records
+<img src="Nour/nour_project/Screenshot/Donars2.png" width="650">
 
 ### 5. Donor Stocks
-![Donor Stocks](Screenshot/DonarsStocks.png)
+<img src="Nour/nour_project/Screenshot/DonarsStocks.png" width="650">
 
 ### 6. Reports
-![Reports](Screenshot/Reports.png)
+<img src="Nour/nour_project/Screenshot/Reports.png" width="650">
 
 ### 7. Blood Requests
-![Blood Requests](Screenshot/Request.png)
+<img src="Nour/nour_project/Screenshot/Request.png" width="650">
 
 ### 8. Request Details
-![Request Details](Screenshot/Request2.png)
-
----
+<img src="Nour/nour_project/Screenshot/Request2.png" width="650">
 
 ## ✨ Features
 
