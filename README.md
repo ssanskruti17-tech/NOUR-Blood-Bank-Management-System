@@ -1,4 +1,4 @@
-# 🩸 NOUR – Blood Bank Management System
+#  NOUR – Blood Bank Management System
 
 **NOUR (Network for Organised Units & Records)**
 
@@ -6,7 +6,7 @@ A Data Structures mini project developed using Python. This project provides a s
 
 ---
 
-## 📸 Project Screenshots
+##  Project Screenshots
 
 ### 1. Dashboard
 <img src="Nour/nour_project/Screenshot/Dashboard.png" width="650">
@@ -32,7 +32,7 @@ A Data Structures mini project developed using Python. This project provides a s
 ### 8. Request Details
 <img src="Nour/nour_project/Screenshot/Request2.png" width="650">
 
-## ✨ Features
+##  Features
 
 - Donor Registration and Management
 - Blood Donation Records
@@ -47,7 +47,7 @@ A Data Structures mini project developed using Python. This project provides a s
 
 ---
 
-## 🧠 Data Structures Used
+##  Data Structures Used
 
 | Data Structure | Application |
 |---|---|
@@ -64,7 +64,7 @@ A Data Structures mini project developed using Python. This project provides a s
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.8+
 - HTML
@@ -74,7 +74,7 @@ A Data Structures mini project developed using Python. This project provides a s
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 NOUR/
