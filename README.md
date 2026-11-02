@@ -55,7 +55,7 @@ A Data Structures mini project developed using Python. This project provides a s
 | Linked List | Maintaining donation history |
 | Min Heap | Managing blood stock by expiry |
 | Max Heap | Managing emergency requests |
-| Circular Queue | Managing routine requests |
+| Circular Queue | Managing routine request |
 | Stack | Undo operation |
 | Graph | Blood group compatibility |
 | BFS | Finding compatible blood groups |
